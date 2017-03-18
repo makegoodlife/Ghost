@@ -4,3 +4,6 @@
 [submodule "core/client"]
 	path = core/client
 	url = https://github.com/TryGhost/Ghost-Admin.git
+[submodule "content/themes/bleak"]
+	path = content/themes/bleak
+	url = git@github.com:makegoodlife/bleak.git

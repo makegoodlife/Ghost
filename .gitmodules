@@ -7,3 +7,6 @@
 [submodule "content/themes/bleak"]
 	path = content/themes/bleak
 	url = git@github.com:makegoodlife/bleak.git
+[submodule "content/storage/s3"]
+	path = content/storage/s3
+	url = git@github.com:makegoodlife/s3-storage.git
